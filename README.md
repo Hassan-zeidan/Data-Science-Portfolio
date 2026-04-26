@@ -9,6 +9,6 @@ I am currently studying a Master's in Data Science and building projects using P
 1. Labor Enforcement Dashboard
 2. Diabetes Prediction Project
 3. Air Quality Visualization
-4. Climate Change Visualization
+4. Dubai Real Estate Price Drivers Analysis
 
 More projects will be added soon.
